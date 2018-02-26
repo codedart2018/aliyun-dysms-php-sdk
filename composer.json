@@ -23,5 +23,14 @@
             "Aliyun\\": "lib/",
             "Aliyun\\Test\\": "tests/"
         }
-    }
+    },
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "composer",
+            "url": "http://packagist.phpcomposer.com"
+        }
+    ]
 }
