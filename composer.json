@@ -24,13 +24,10 @@
             "Aliyun\\Test\\": "tests/"
         }
     },
-    "repositories": [
-        {
-            "packagist": false
-        },
-        {
+    "repositories": {
+        "packagist": {
             "type": "composer",
-            "url": "http://packagist.phpcomposer.com"
+            "url": "https://packagist.phpcomposer.com"
         }
-    ]
+    }
 }
