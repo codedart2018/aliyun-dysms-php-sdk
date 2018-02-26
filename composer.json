@@ -20,7 +20,8 @@
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
-            "Aliyun\\": "lib/"
+            "Aliyun\\": "lib/",
+            "Aliyun\\Test\\": "tests/"
         }
     }
 }
